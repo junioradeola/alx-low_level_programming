@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Prints numbers between 0 to 9 with commas and spaces.
@@ -13,7 +13,7 @@ int main(void)
 	{
 		putchar(i);
 		if (i != 57)
-		{				
+		{
 			putchar(',');
 			putchar(' ');
 		}
