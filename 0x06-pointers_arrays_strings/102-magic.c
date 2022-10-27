@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+/*
+ * writing a program
+ * that prints a[2] = 98
+ * followed byt a new line
+ */
 int main(void)
 {
 	int n;
